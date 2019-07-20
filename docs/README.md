@@ -1,3 +1,7 @@
+<style>
+  .page-header>a{display:none;}
+  .site-footer{display:none;}
+</style>
 # Reading-Thinking
 ### 目录
 + [独孤求败](独孤求败.md)
