@@ -2,8 +2,7 @@
   .page-header>a{display:none;}
   .site-footer{display:none;}
 </style>
-# Reading-Thinking
-### 目录
+# 诗集
 + [独孤求败](独孤求败.md)
 + [星际穿越](星际穿越.md)
 + [读《摆渡人》](读《摆渡人》有感.md)
